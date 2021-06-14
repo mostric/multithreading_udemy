@@ -1,4 +1,4 @@
-package multithreading.udemy.example0;
+package multithreading.udemy.example0.threadcreation;
 
 public class Main {
     public static void main(String[] args) throws InterruptedException {

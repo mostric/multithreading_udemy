@@ -1,4 +1,4 @@
-package multithreading.udemy.example2;
+package multithreading.udemy.example2.hackerpoliceraces;
 
 import java.util.ArrayList;
 import java.util.List;

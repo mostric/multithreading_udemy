@@ -1,4 +1,4 @@
-package multithreading.udemy.example1;
+package multithreading.udemy.example1.threadinheritance;
 
 public class Main {
     public static void main(String[] args) {
